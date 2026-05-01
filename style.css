@@ -133,7 +133,8 @@
 
 .main {
 
-  flex-direction: column;
+  display:flex;
+  flex-direction: row;
   gap: 16px;
   padding: 20px;
   background-color: #e3e0d5;
